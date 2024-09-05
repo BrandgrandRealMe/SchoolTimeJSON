@@ -1,0 +1,54 @@
+{
+  "start": "8:15:00AM",
+  "end": "4:05:00PM",
+  "bells": [
+    {
+      "id": 0,
+      "title": "First Period",
+      "startTime": "8:15:00AM",
+      "stopTime": "9:00:00AM"
+    },
+    {
+      "id": 1,
+      "title": "Second Period",
+      "startTime": "9:05:00AM",
+      "stopTime": "9:50:00AM"
+    },
+    {
+      "id": 2,
+      "title": "Third Period",
+      "startTime": "9:55:00AM",
+      "stopTime": "10:40:00AM"
+    },
+    {
+      "id": 3,
+      "title": "Fourth Period",
+      "startTime": "10:45:00AM",
+      "stopTime": "12:45:00PM"
+    },
+    {
+      "id": 4,
+      "title": "Fifth Period",
+      "startTime": "12:50:00PM",
+      "stopTime": "1:35:00PM"
+    },
+    {
+      "id": 5,
+      "title": "Sixth Period",
+      "startTime": "1:40:00PM",
+      "stopTime": "2:25:00PM"
+    },
+    {
+      "id": 6,
+      "title": "Seventh Period",
+      "startTime": "2:30:00PM",
+      "stopTime": "3:15:00PM"
+    },
+    {
+      "id": 7,
+      "title": "Eighth Period",
+      "startTime": "3:20:00PM",
+      "stopTime": "4:05:00PM"
+    }
+  ]
+}
